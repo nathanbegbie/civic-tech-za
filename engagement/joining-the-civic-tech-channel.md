@@ -14,7 +14,7 @@ _Note: Click on the arrows to view the screenshots associated with the steps._
 
 2. <details><summary>Click on the <strong>'Slack'</strong> button to receive an invite to join <em>'ZA Tech'</em>.</summary><img src="./../assets/images/za-tech-invite.PNG"></details>
 
-3. <details><summary>Enter your email address.</summary><img src="./../assets/images/za-tech-invite-email.PNG">)</details>
+3. <details><summary>Enter your email address.</summary><img src="./../assets/images/za-tech-invite-email.PNG"></details>
 
 4. <details><summary>You should receive the following email. Continue by pressing the <strong>'Join Now'</strong> button.</summary><img src="./../assets/images/za-tech-invite-button.PNG"></details>
 
